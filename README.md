@@ -93,7 +93,7 @@ As part of this lab, I learned the critical difference between encryption and ha
 ![PDF Unlocked](open_pdf.png)
 
 **6. Unlocked PDF (NW flag):**
-![NW PDF Unlocked](nw_open_pdf)
+![NW PDF Unlocked](nw_open_pdf.png)
 
 * * *
 
